@@ -16,7 +16,7 @@ and frequencies.
 ## Sketch Features
   - Measures frequency and capacitance or inductance once per second.
   - Detects capacitance and inductance setting of the
-    [lcmeter_nui]https://github.com/jdunmire/lcmeter_nui)
+    [lcmeter_nui](https://github.com/jdunmire/lcmeter_nui)
   - Measured values are in scalled units: milli(m), micro(u), nano(n),
     pico(p)
   - Output is CSV formated for easy import into other programs or
