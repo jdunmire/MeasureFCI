@@ -2,7 +2,7 @@ MeasureFCI
 ==========
 
 MeasureFCI is an Arudino sketch to measure frequency, capacitance, and
-inductance using the [lcmeter_nui shield](https://github.com/jdunmire/lcmeter_nui).
+inductance using the [SCIM-shield](https://github.com/jdunmire/SCIM-shield).
 
 This sketch was developed and tested on an [Arduino
 UNO](http://arduino.cc/en/Main/arduinoBoardUno). The Arduino IDE was run
